@@ -1,4 +1,4 @@
-# fronted-project-
+# fronted-project
 All fronted-related work of Spyn Technolgy
 
 # 🎨 Spyn Technology – Frontend Projects Repository
