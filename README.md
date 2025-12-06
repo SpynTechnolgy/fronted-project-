@@ -30,13 +30,13 @@ cd frontend-projects
 
 ---
 
-# 🖥️ **2) BACKEND README**  
-### ⭐ Paste this into `backend-projects` → README.md
+# 🖥️ **2) FRONTED WORK**  
+### ⭐ Paste this into `fronted-projects` → README.md
 
 ```markdown
-# 🖥️ Spyn Technology – Backend Projects Repository
+# 🖥️ Spyn Technology – fronted Projects Repository
 
-Welcome to the official **Backend Development** repository of **Spyn Technology**!  
+Welcome to the official **Fronted Development** repository of **Spyn Technology**!  
 This repository contains all server-side code, APIs, authentication systems, database logic, and backend services built by our team.
 
 ⚙️ Our mission: Build secure, scalable, and efficient backend systems.
@@ -44,7 +44,7 @@ This repository contains all server-side code, APIs, authentication systems, dat
 ---
 
 ## 📁 Contents
-- 🧳 Employee backend project folders  
+- 🧳 Employee fronted project folders  
 - 🔌 REST / API endpoints  
 - 🗄️ Database schemas & migrations (SQL/MongoDB)  
 - 🔐 Authentication & security modules  
@@ -57,5 +57,5 @@ This repository contains all server-side code, APIs, authentication systems, dat
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/Spyn-Technology/backend-projects.git
-cd backend-projects
+git clone https://github.com/Spyn-Technology/fronted-projects.git
+cd fronted-projects
